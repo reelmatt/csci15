@@ -1,0 +1,51 @@
+.realtors {
+    display: block;
+    width: 80%;
+    align-content: center;
+    margin: 2px auto;
+}
+
+.realtor {
+    border: 1px solid lightgrey;
+    margin: 2px auto;
+    padding: 5px;
+    width: 60%
+}
+
+.realtor:hover {
+    border: 1px solid black;
+}
+
+.currentListings {
+    padding-left: 5px;
+    list-style-position: inside;
+    text-align: left;
+
+}
+
+.noListings {
+    list-style-type: none;
+    list-style-position: inside;
+}
+
+p .listing:hover {
+    border: none;
+}
+
+form {
+    width: 60%;
+    margin: 2px auto;
+    margin-bottom: 300px;
+    padding-bottom: 300px;
+    align-content: center;
+}
+
+fieldset {
+    width: 100%;
+    padding: 1em;
+    margin: 0 auto;
+}
+
+.listing:hover {
+    border: none;
+}
